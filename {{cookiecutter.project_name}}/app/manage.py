@@ -1,0 +1,1 @@
+# caso exista dados a ser podulados no banco deve escrever as funçoes que às realizer e colocar as chamadas no makefile

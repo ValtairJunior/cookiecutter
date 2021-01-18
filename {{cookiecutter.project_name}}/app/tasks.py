@@ -1,0 +1,1 @@
+# caso nescessario usar enfileiramento de tarefas usando um Celery escrever as funçoes nessa parte
